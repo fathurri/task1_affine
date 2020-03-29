@@ -38,7 +38,7 @@ Apabila transformasi pada translasi, refleksi, serta rotasi hanya mengubah posis
 
 Ukuran benda bisa akan dibuah oleh dilatasi menjadi lebih besar atau lebih kecil. Perubahan ini bergantung pada skala yang menjadi faktor dari pengalinya.
 
-![image.png](attachment:image.png)
+
 
 
 ```python
@@ -60,7 +60,7 @@ Yang berarti, translasi tersebut hanya akan mengalami perpindahan titik.
 
 Penentuan hasil objek lewat translasi cukup mudah. Caranya hanya dengan cara menambahkan absis serta ordinat dengan jarak tertentu sesuai dengan ketentuan tertentu.
 
-![image.png](attachment:image.png)
+
 
 
 ```python
@@ -82,7 +82,7 @@ Besarnya rotasi dalam transformasi geometri sebesar α yang telah disepakati unt
 
 Apabila arah perputaran rotasi pada sebuah benda searah dengan jarum jam, maka sudut yang dibentuk yaitu -α.
 
-![image.png](attachment:image.png)
+
 
 
 ```python
@@ -192,7 +192,7 @@ plot_beforeTransform(A)
 ```
 
 
-![png](output_16_0.png)
+
 
 
 ### Matriks A setelah Scaling (Dilatasi)
@@ -206,7 +206,7 @@ plot_afterTransform(matrix_scaling)
 ```
 
 
-![png](output_18_0.png)
+
 
 
 ### Matriks A setelah Translasi
@@ -221,7 +221,7 @@ print(matrix_translating)
 ```
 
 
-![png](output_20_0.png)
+
 
 
     [[0 2 1]
@@ -242,11 +242,7 @@ plot_afterTransform(matrix_rotating)
 ```
 
 
-![png](output_22_0.png)
 
-
-
-![png](output_22_1.png)
 
 
 ### Matriks A setelah Projecting
@@ -260,11 +256,7 @@ plot_afterTransform(matrix_projecting)
 ```
 
 
-![png](output_24_0.png)
 
-
-
-![png](output_24_1.png)
 
 
 
